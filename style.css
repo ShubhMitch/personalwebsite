@@ -310,6 +310,16 @@ footer {
     padding-right: 3rem;
     grid-area: container1;
   }
+  .track {
+  background-color: orange;
+  color: white;
+  font-size: 20px;
+  padding: 0.3rem 1rem;
+    margin-bottom: 0.7rem
+  border: 2px solid;
+  border-radius: 5px;
+  border-color: rgb(228, 168, 57);
+}
 /* why to trust us area */
 .trust {
     word-spacing: 0.5rem;
